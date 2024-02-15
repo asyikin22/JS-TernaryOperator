@@ -20,4 +20,3 @@ This script creates a simple website with a dropdown menu that enables you to ch
 			? update ("blue", "yellow")
 			§ If condition is false, it calls the update function with argument "yellow" and "blue" respectively. 
 			: update ("yellow", "blue")
-![image](https://github.com/asyikin22/JS-TernaryOperator/assets/148519441/0bfb26cc-112e-46a5-bd49-4354cb71afd5)
